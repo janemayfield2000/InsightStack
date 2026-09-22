@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://digital-insights.netlify.app/sitemap.xml
+Sitemap: https://insightstack-p2bt.onrender.com/sitemap.xml
